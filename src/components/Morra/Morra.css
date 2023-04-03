@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood ;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.btn{
+    border-color: paleturquoise;
+    border-radius:  50%;
+    margin: 0.5em;
+}
+
+hr{
+    border: 2px solid paleturquoise;
+    width: 100vw;
+}
+
+img{
+    max-width: 14%;
+    max-height: 12%;
+    border-radius: 10%;
+}
